@@ -25,4 +25,4 @@ Focused on building end-to-end web applications, operational business management
 📫 **Connect with me:**
 - LinkedIn: [linkedin.com/in/affanccn](https://linkedin.com/in/affanccn)
 - Email: [emrhn.ccn@gmail.com](mailto:emrhn.ccn@gmail.com)
-- Website: [http://www.affanccn.com](http://www.affanccn.com)
+- Website: [affanccn.com](http://www.affanccn.com)
