@@ -1,4 +1,4 @@
-# Hey there, I'm Affan Emirhan Çüçen 👋
+# Hey there, I'm Afvan Emirhan Çüçen 👋
 **Computer Engineering Student & Full-Stack Developer** based in Kocaeli, Turkey.
 
 Focused on building end-to-end web applications, operational business management systems (POS, ERP/Admin), and real-time platforms using modern JavaScript/TypeScript ecosystems.
@@ -25,3 +25,4 @@ Focused on building end-to-end web applications, operational business management
 📫 **Connect with me:**
 - LinkedIn: [linkedin.com/in/affanccn](https://linkedin.com/in/affanccn)
 - Email: [emrhn.ccn@gmail.com](mailto:emrhn.ccn@gmail.com)
+- Website: [http://www.affanccn.com]
