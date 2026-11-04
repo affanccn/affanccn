@@ -1,4 +1,4 @@
-# Hey there, I'm Affan Emirhan Çüçen 👋
+# Hey there, I'm Afvan Emirhan Çüçen 👋
 
 **Computer Engineer & Full-Stack / Mobile Developer** based in Kocaeli, Turkey.
 
