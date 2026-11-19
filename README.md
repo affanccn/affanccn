@@ -99,18 +99,13 @@ My personal portfolio showcasing my software projects, technical experience and 
 
 ## 📊 GitHub Overview
 
-\<p align="center">   \<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=affanccn&show_icons=true&theme=transparent&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=affanccn\&show_icons=true\&theme=transparent\&hide_border=true\&rank_icon=github)" />   \<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=affanccn&layout=compact&theme=transparent&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=affanccn\&layout=compact\&theme=transparent\&hide_border=true\&langs_count=8)" /> \</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=affanccn&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
 
-\<p align="center">   \<img width="70%" src="[https://streak-stats.demolab.com?user=affanccn&theme=transparent&hide_border=true](https://streak-stats.demolab.com?user=affanccn\&theme=transparent\&hide_border=true)" /> \</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=affanccn&layout=compact&theme=transparent&hide_border=true&langs_count=8)
 
-\<p align="center">
-&#x20; \<img src="[https://komarev.com/ghpvc/?username=affanccn&style=flat-square&color=0A66C2&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=affanccn\&style=flat-square\&color=0A66C2\&label=PROFILE+VIEWS)" />
-\</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=affanccn&theme=transparent&hide_border=true)
 
----
-
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=affanccn&style=flat-square&color=0A66C2&label=PROFILE+VIEWS)
 
 ---
 
@@ -120,7 +115,10 @@ My personal portfolio showcasing my software projects, technical experience and 
 
 I'm always interested in building meaningful software, exploring new technologies and collaborating on challenging projects.
 
-\<p align="center">   \<a href="[https://affanccn.com](https://affanccn.com)">     \<img src="[https://img.shields.io/badge/Portfolio-affanccn.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-affanccn.com-0A66C2?style=for-the-badge\&logo=googlechrome\&logoColor=white)" />   \</a>   \<a href="[https://linkedin.com/in/affanccn](https://linkedin.com/in/affanccn)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />   \</a>   \<a href="mailto\:emrhn.ccn\@gmail.com">     \<img src="[https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />   \</a> \</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-affanccn.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://affanccn.com)
 
-\<p align="center">   \<i>Building real-world solutions, one commit at a time.\</i> \</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/affanccn)
 
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emrhn.ccn@gmail.com)
+
+*Building real-world solutions, one commit at a time.*
