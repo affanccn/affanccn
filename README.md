@@ -103,7 +103,13 @@ My personal portfolio showcasing my software projects, technical experience and 
 
 \<p align="center">   \<img width="70%" src="[https://streak-stats.demolab.com?user=affanccn&theme=transparent&hide_border=true](https://streak-stats.demolab.com?user=affanccn\&theme=transparent\&hide_border=true)" /> \</p>
 
-\<p align="center">   \<img src="[https://komarev.com/ghpvc/?username=affanccn&style=flat-square&color=0A66C2&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=affanccn\&style=flat-square\&color=0A66C2\&label=PROFILE+VIEWS)" /> \</p>
+\<p align="center">
+&#x20; \<img src="[https://komarev.com/ghpvc/?username=affanccn&style=flat-square&color=0A66C2&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=affanccn\&style=flat-square\&color=0A66C2\&label=PROFILE+VIEWS)" />
+\</p>
+
+---
+
+
 
 
 ---
@@ -117,3 +123,4 @@ I'm always interested in building meaningful software, exploring new technologie
 \<p align="center">   \<a href="[https://affanccn.com](https://affanccn.com)">     \<img src="[https://img.shields.io/badge/Portfolio-affanccn.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-affanccn.com-0A66C2?style=for-the-badge\&logo=googlechrome\&logoColor=white)" />   \</a>   \<a href="[https://linkedin.com/in/affanccn](https://linkedin.com/in/affanccn)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />   \</a>   \<a href="mailto\:emrhn.ccn\@gmail.com">     \<img src="[https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />   \</a> \</p>
 
 \<p align="center">   \<i>Building real-world solutions, one commit at a time.\</i> \</p>
+
