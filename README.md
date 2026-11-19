@@ -23,39 +23,29 @@ My focus is building practical, scalable and maintainable solutions that solve r
 
 ## 🛠 Technology Stack
 
-**Languages**
+### Languages
 
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,dart,cs,py,java,sql" />
+</p>
 
+### Frontend & Mobile
 
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter" />
+</p>
 
+### Backend & Databases
 
-\
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,mysql,firebase,supabase" />
+</p>
 
+### Tools & Platforms
 
-**Frontend & Mobile**
-
-
-
-\
-
-
-**Backend & Databases**
-
-
-
-
-
-\
-
-
-**Tools & Platforms**
-
-
-
-\
-
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,figma,vscode,androidstudio" />
+</p>
 
 ## 💼 Featured Projects
 
@@ -109,9 +99,14 @@ My personal portfolio showcasing my software projects, technical experience and 
 
 ## 📊 GitHub Overview
 
-\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=affanccn&show_icons=true&theme=transparent&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=affanccn\&show_icons=true\&theme=transparent\&hide_border=true\&rank_icon=github)" height="165" />   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=affanccn&layout=compact&theme=transparent&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=affanccn\&layout=compact\&theme=transparent\&hide_border=true\&langs_count=8)" height="165" /> \</p>
+\<p align="center">   \<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=affanccn&show_icons=true&theme=transparent&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=affanccn\&show_icons=true\&theme=transparent\&hide_border=true\&rank_icon=github)" />   \<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=affanccn&layout=compact&theme=transparent&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=affanccn\&layout=compact\&theme=transparent\&hide_border=true\&langs_count=8)" /> \</p>
 
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=affanccn&theme=transparent&hide_border=true](https://streak-stats.demolab.com?user=affanccn\&theme=transparent\&hide_border=true)" /> \</p>
+\<p align="center">   \<img width="70%" src="[https://streak-stats.demolab.com?user=affanccn&theme=transparent&hide_border=true](https://streak-stats.demolab.com?user=affanccn\&theme=transparent\&hide_border=true)" /> \</p>
+
+\<p align="center">   \<img src="[https://komarev.com/ghpvc/?username=affanccn&style=flat-square&color=0A66C2&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=affanccn\&style=flat-square\&color=0A66C2\&label=PROFILE+VIEWS)" /> \</p>
+
+
+---
 
 ---
 
@@ -119,12 +114,6 @@ My personal portfolio showcasing my software projects, technical experience and 
 
 I'm always interested in building meaningful software, exploring new technologies and collaborating on challenging projects.
 
-\<p align="center">
-&#x20; \<a href="[https://affanccn.com](https://affanccn.com)">\<img src="[https://img.shields.io/badge/Portfolio-affanccn.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-affanccn.com-0A66C2?style=for-the-badge\&logo=googlechrome\&logoColor=white)" />\</a>
-&#x20; \<a href="[https://linkedin.com/in/affanccn](https://linkedin.com/in/affanccn)">\<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />\</a>
-&#x20; \<a href="mailto\:emrhn.ccn\@gmail.com">\<img src="[https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />\</a>
-\</p>
+\<p align="center">   \<a href="[https://affanccn.com](https://affanccn.com)">     \<img src="[https://img.shields.io/badge/Portfolio-affanccn.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-affanccn.com-0A66C2?style=for-the-badge\&logo=googlechrome\&logoColor=white)" />   \</a>   \<a href="[https://linkedin.com/in/affanccn](https://linkedin.com/in/affanccn)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />   \</a>   \<a href="mailto\:emrhn.ccn\@gmail.com">     \<img src="[https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />   \</a> \</p>
 
-\<p align="center">
-&#x20; \<i>Building real-world solutions, one commit at a time.\</i>
-\</p>
+\<p align="center">   \<i>Building real-world solutions, one commit at a time.\</i> \</p>
