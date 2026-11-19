@@ -1,55 +1,130 @@
-# Hey there, I'm Afvan Emirhan Çüçen 👋
+# Hey, I'm Afvan Emirhan Çüçen 👋
 
-**Computer Engineer & Full-Stack / Mobile Developer** based in Kocaeli, Turkey.
+### Full-Stack & Mobile Developer | Computer Engineering Student
 
-I build end-to-end web and mobile applications, business management systems (POS, ERP/Admin), and real-time platforms with modern technologies. I enjoy turning ideas into practical, scalable, and user-friendly products.
+I design and develop end-to-end software products, from modern web applications and cross-platform mobile apps to backend systems and business management platforms.
 
----
+My focus is building practical, scalable and maintainable solutions that solve real-world problems.
 
-### 🛠 Tech Stack & Core Competencies
-
-* **Languages:** TypeScript, JavaScript (ES6+), Dart, C#, SQL, Python
-* **Web Frontend:** React.js, Next.js, Tailwind CSS, Responsive UI Design
-* **Mobile Development:** Flutter, Dart, Android, iOS
-* **Backend & APIs:** Node.js, Express.js, REST APIs, WebSockets (Socket.io)
-* **Databases & Cloud:** PostgreSQL, MongoDB, MySQL, Firebase, Neon DB
-* **Tools & Deployment:** Git, GitHub, Vercel, Render, Postman, Linux/Bash
+🌍 Based in Kocaeli, Türkiye
+💻 Portfolio: [affanccn.com](https://affanccn.com)
+💼 LinkedIn: [linkedin.com/in/affanccn](https://linkedin.com/in/affanccn)
+📧 Email: [emrhn.ccn@gmail.com](mailto\:emrhn.ccn@gmail.com)
 
 ---
 
-### 🚀 Highlighted Projects
+## 🚀 What I Build
 
-1. **[Ersa Ticaret](#)** – B2B e-commerce platform for industrial refrigeration products with dealer management, multi-tier pricing, stock tracking, and customer account management.
-   *(Next.js, TypeScript, PostgreSQL, Prisma, Neon)*
+- **Full-Stack Applications** — Modern web platforms and business solutions.
+- **Mobile Applications** — Cross-platform applications with Flutter.
+- **Backend Systems** — REST APIs, authentication and real-time communication.
+- **Business Software** — POS, ERP, inventory and administrative management systems.
+- **Database Architecture** — Relational and NoSQL database design.
 
-2. **[ArtisanPOS](#)** – Full-stack restaurant POS ecosystem with table management, order tracking, payments, reporting, and a dedicated mobile application for restaurant staff.
-   *(Flutter, Dart, Next.js, React, Node.js, PostgreSQL)*
+## 🛠 Technology Stack
 
-3. **[GustoPOS](#)** – Restaurant management system featuring table layouts, order management, split payments, reporting, and operational business tools.
-   *(Next.js, React, TypeScript, MongoDB)*
+**Languages**
 
-4. **[Real-Time Messaging](#)** – Low-latency bi-directional messaging platform with room-based communication and persistent chat history.
-   *(Socket.io, Node.js, MongoDB)*
 
-5. **[AiFlix](#)** – Movie and TV discovery platform with personalized recommendations, Firebase authentication, and TMDB API integration.
-   *(JavaScript, Firebase, TMDB API)*
+
+
+
+\
+
+
+**Frontend & Mobile**
+
+
+
+\
+
+
+**Backend & Databases**
+
+
+
+
+
+\
+
+
+**Tools & Platforms**
+
+
+
+\
+
 
 ---
 
-### 💡 What I Like Building
+## 💼 Featured Projects
 
-* 📱 Cross-platform mobile applications
-* 🌐 Full-stack web applications
-* 🧾 POS & business management systems
-* ⚡ Real-time applications
-* 🗄️ Scalable backend architectures
-* 🎨 Modern and responsive user interfaces
+### 🏛️ Gebze Dijital
+
+A municipal citizen platform designed to bring local government services into a single mobile application.
+
+**Technologies:** Flutter, Dart, Firebase
+
+[Repository](https://github.com/affanccn/gebze_dijital)
+
+### 📦 GustoPOS
+
+A restaurant management and point-of-sale platform featuring table management, order tracking and business operations.
+
+**Technologies:** Flutter, TypeScript, Node.js, PostgreSQL
+
+[Repository](https://github.com/affanccn/GustoPos)
+
+### 🧾 POS System
+
+A full-stack restaurant POS ecosystem with mobile staff applications, order management and real-time communication.
+
+**Technologies:** Flutter, Next.js, Node.js, PostgreSQL, Socket.io
+
+[Repository](https://github.com/affanccn/pos-system)
+
+### 🏢 Gebze Municipality Asset Management
+
+An enterprise-oriented asset management platform designed to organize municipal buildings, departments, rooms, personnel, inventory and asset assignments.
+
+**Focus:** Full-Stack Development, Enterprise Architecture, Asset Management
+
+*Currently in development.*
+
+### ❄️ Ersa Soğutma
+
+A B2B e-commerce platform for industrial refrigeration products, featuring dealer management and multi-level pricing.
+
+**Technologies:** Next.js, TypeScript, Prisma, PostgreSQL
+
+[Live Website](https://ersasogutma.vercel.app)
+
+### 🌐 Personal Portfolio
+
+My personal portfolio showcasing my software projects, technical experience and development journey.
+
+[Visit Portfolio](https://affanccn.com) · [Repository](https://github.com/affanccn/affan-portfolio)
 
 ---
 
-### 📫 Connect with me
+## 📊 GitHub Overview
 
-* 💼 LinkedIn: [linkedin.com/in/affanccn](https://linkedin.com/in/affanccn)
-* 📧 Email: [emrhn.ccn@gmail.com](mailto:emrhn.ccn@gmail.com)
-* 🌐 Website: [affanccn.com](https://www.affanccn.com)
-* 💻 GitHub: [github.com/affanccn](https://github.com/affanccn)
+\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=affanccn&show_icons=true&theme=transparent&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=affanccn\&show_icons=true\&theme=transparent\&hide_border=true\&rank_icon=github)" height="165" />   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=affanccn&layout=compact&theme=transparent&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=affanccn\&layout=compact\&theme=transparent\&hide_border=true\&langs_count=8)" height="165" /> \</p>
+
+\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=affanccn&theme=transparent&hide_border=true](https://streak-stats.demolab.com?user=affanccn\&theme=transparent\&hide_border=true)" /> \</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in building meaningful software, exploring new technologies and collaborating on challenging projects.
+
+\<p align="center">
+&#x20; \<a href="[https://affanccn.com](https://affanccn.com)">\<img src="[https://img.shields.io/badge/Portfolio-affanccn.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-affanccn.com-0A66C2?style=for-the-badge\&logo=googlechrome\&logoColor=white)" />\</a>
+&#x20; \<a href="[https://linkedin.com/in/affanccn](https://linkedin.com/in/affanccn)">\<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />\</a>
+&#x20; \<a href="mailto\:emrhn.ccn\@gmail.com">\<img src="[https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />\</a>
+\</p>
+
+\<p align="center">
+&#x20; \<i>Building real-world solutions, one commit at a time.\</i>
+\</p>
