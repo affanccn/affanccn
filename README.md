@@ -57,7 +57,7 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,dart,cs,py,java,sql,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,dart,cs,py,java,html,css" alt="Languages" />
 </p>
 
 ### Frontend & Mobile
